@@ -15,7 +15,6 @@
 #define N_SP    (N_X*N_Y)               //Número total de espines en la red bidimensional
 #define N_VEC   4                       //Número de vecinos, en una red bidimensional son 4 vecinos
                                         //Se maneja la variable para redes más complejas para las tablas de Boltzmann
-
 /* ---- ********************************* Constantes termodinámicas del sistema ******************************** ---- */
 extern const double          temp_ini;  //Temperatura reducida inicial del sistema
 extern const double          temp_fin;  //Temperatura reducida final del sistema
