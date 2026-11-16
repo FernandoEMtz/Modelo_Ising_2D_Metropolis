@@ -1,3 +1,9 @@
 cmake-build-*
 .idea
-.exe
+build/
+Configuracion_final_de_spines
+Estadistica_por_paso_Montecarlo
+Reportes_de_simulaciones
+Resultados_finales
+*.exe
+*.o
